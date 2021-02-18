@@ -1,0 +1,23 @@
+$primary-color: #272727;
+$secondary: #181A36;
+$blue: #17193B;
+$blue-light: #313663;
+$yellow: #FCCF32;
+$orange: #D04F4D;
+$grey: #e2e2e2;
+$dark-grey: rgb(119, 119, 119);
+
+$breakpoint: 1000px;
+$breakpoint1: 600px;
+
+@mixin breakpoint {
+    @media only screen and (max-width: #{$breakpoint}) {
+        @content;
+    }
+}
+
+@mixin breakpoint1 {
+    @media only screen and (max-width: #{$breakpoint1}) {
+        @content;
+    }
+}
