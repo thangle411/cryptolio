@@ -55,11 +55,6 @@ export const coins = [
         "coinAddress": "0x892a6f9df0147e5f079b0993f486f9aca3c87881"
     },
     {
-        "name":"NORD",
-        "pairAddress": "0x5239873c892376799b6cb49a3cfb1146d4a260b8",
-        "coinAddress": "0x6e9730ecffbed43fd876a264c982e254ef05a0de"
-    },
-    {
         "name":"STRONG",
         "pairAddress": "0xc0bf97bffa94a50502265c579a3b7086d081664b",
         "coinAddress": "0x990f341946a3fdb507ae7e52d17851b87168017c"
