@@ -49,6 +49,11 @@ export const coins = [
         "pairAddress": "0x454d7156b0f62f61e7f2ad6a65d29ce681d6d354",
         "coinAddress": "0x9f801c1f02af03cc240546dadef8e56cd46ea2e9"
     },
+     {
+        "name":"AAPX",
+        "pairAddress": "0xc8e78ad2573f5e16a286443aea2a6f1ba0c06b96",
+        "coinAddress": "0xbfd815347d024f449886c171f78fa5b8e6790811"
+    },
     {
         "name":"XIV",
         "pairAddress": "0xdaef1026b0c63eed3b2b86af396d724ddb9dcd18",
