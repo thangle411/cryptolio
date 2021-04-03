@@ -55,6 +55,11 @@ export const coins = [
         "coinAddress": "0xbfd815347d024f449886c171f78fa5b8e6790811"
     },
     {
+        "name":"UTRIN",
+        "pairAddress": "0xe6c4121ecedb69778558d29765194df261e8e886",
+        "coinAddress": "0x99f2b69ee2468c834a634ff50d930ae64e3e500f"
+    },
+    {
         "name":"XIV",
         "pairAddress": "0xdaef1026b0c63eed3b2b86af396d724ddb9dcd18",
         "coinAddress": "0x44f262622248027f8e2a8fb1090c4cf85072392c"
