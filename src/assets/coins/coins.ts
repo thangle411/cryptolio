@@ -39,6 +39,11 @@ export const coins = [
         "pairAddress": "0xdf6b861b4fbcfaffb62dd1906fcd3a863955704b",
         "coinAddress": "0x6e36556b3ee5aa28def2a8ec3dae30ec2b208739"
     },
+      {
+        "name":"METRIC",
+        "pairAddress": "0xa7d707118c02dcd2bea94ff05664db51363c47bd",
+        "coinAddress": "0xefc1c73a3d8728dc4cf2a18ac5705fe93e5914ac"
+    },
     {
         "name":"BUND",
         "pairAddress": "0xed86244cd91f4072c7c5b7f8ec3a2e97ea31b693",
