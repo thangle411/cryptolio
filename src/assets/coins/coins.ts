@@ -54,10 +54,15 @@ export const coins = [
         "pairAddress": "0x454d7156b0f62f61e7f2ad6a65d29ce681d6d354",
         "coinAddress": "0x9f801c1f02af03cc240546dadef8e56cd46ea2e9"
     },
-     {
+    {
         "name":"AAPX",
         "pairAddress": "0xc8e78ad2573f5e16a286443aea2a6f1ba0c06b96",
         "coinAddress": "0xbfd815347d024f449886c171f78fa5b8e6790811"
+    },
+    {
+        "name":"TAP",
+        "pairAddress": "0x54049236fc1db3e274128176efedf7c69b4c6335",
+        "coinAddress": "0x7f1f2d3dfa99678675ece1c243d3f7bc3746db5d"
     },
     {
         "name":"UTRIN",
