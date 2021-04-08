@@ -45,11 +45,6 @@ export const coins = [
         "coinAddress": "0xefc1c73a3d8728dc4cf2a18ac5705fe93e5914ac"
     },
     {
-        "name":"BUND",
-        "pairAddress": "0xed86244cd91f4072c7c5b7f8ec3a2e97ea31b693",
-        "coinAddress": "0x8d3e855f3f55109d473735ab76f753218400fe96"
-    },
-    {
         "name":"TANGO",
         "pairAddress": "0x9a4d5580497abde06df106b5cd2d2ecbed7b09c9",
         "coinAddress": "0x182f4c4c97cd1c24e1df8fc4c053e5c47bf53bef"
