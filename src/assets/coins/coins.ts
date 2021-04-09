@@ -10,19 +10,9 @@ export const coins = [
         "coinAddress": "0xb6ee603933e024d8d53dde3faa0bf98fe2a3d6f1"
     },
     {
-        "name":"LTO",
-        "pairAddress": "0x9cd7403ac4856071581e1f5a298317d9a72a19cf",
-        "coinAddress": "0x3db6ba6ab6f95efed1a6e794cad492faaabf294d"
-    },
-    {
         "name":"GTH",
         "pairAddress": "0xb38be7fd90669abcdfb314dbddf6143aa88d3110",
         "coinAddress": "0xc3771d47e2ab5a519e2917e61e23078d0c05ed7f"
-    },
-    {
-        "name":"QNT",
-        "pairAddress": "0x0c4a68cf6857cc76fe946d04fe85fac5fae9625e",
-        "coinAddress": "0x4a220e6096b25eadb88358cb44068a3248254675"
     },
     {
         "name":"CNTR",
