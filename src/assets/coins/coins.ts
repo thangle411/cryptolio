@@ -66,8 +66,8 @@ export const coins = [
     },
     {
         "name":"BOSON",
-        "pairAddress": "0x6d7b6dad6abed1dfa5eba37a6667ba9dcfd49077",
-        "coinAddress": "0x1b40183efb4dd766f11bda7a7c3ad8982e998421"
+        "pairAddress": "0xe8edd9968245873176e30548147efdd13e0b22f4",
+        "coinAddress": "0xc477d038d5420c6a9e0b031712f61c5120090de9"
     },
     {
         "name":"VSP",
