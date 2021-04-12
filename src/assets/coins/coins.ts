@@ -25,9 +25,9 @@ export const coins = [
         "coinAddress": "0x755be920943ea95e39ee2dc437b268917b580d6e"
     },
     {
-        "name":"BUILD",
-        "pairAddress": "0xdf6b861b4fbcfaffb62dd1906fcd3a863955704b",
-        "coinAddress": "0x6e36556b3ee5aa28def2a8ec3dae30ec2b208739"
+        "name":"UTU",
+        "pairAddress": "0x8d01c6e109c3db63f7aa43404157b274cf18ffd8",
+        "coinAddress": "0xa58a4f5c4bb043d2cc1e170613b74e767c94189b"
     },
       {
         "name":"METRIC",
