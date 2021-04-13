@@ -65,6 +65,11 @@ export const coins = [
         "coinAddress": "0xf938424f7210f31df2aee3011291b658f872e91e"
     },
     {
+        "name":"MTHD",
+        "pairAddress": "0x4a17b7230c4b9b47e6c7b023103d6a11bd498022",
+        "coinAddress": "0x84ba4aecfde39d69686a841bab434c32d179a169"
+    },
+    {
         "name":"VSP",
         "pairAddress": "0x6d7b6dad6abed1dfa5eba37a6667ba9dcfd49077",
         "coinAddress": "0x1b40183efb4dd766f11bda7a7c3ad8982e998421"
