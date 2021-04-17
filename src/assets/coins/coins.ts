@@ -60,6 +60,11 @@ export const coins = [
         "coinAddress": "0xe0b9a2c3e9f40cf74b2c7f591b2b0cca055c3112"
     },
     {
+        "name":"RAZE",
+        "pairAddress": "0x4fc47579ecf6aa76677ee142b6b75faf9eeafba8",
+        "coinAddress": "0x5eaa69b29f99c84fe5de8200340b4e9b4ab38eac"
+    },
+    {
         "name":"VISR",
         "pairAddress": "0x0c2445bec45c443c58f44f8e0a5796960e052d63",
         "coinAddress": "0xf938424f7210f31df2aee3011291b658f872e91e"
