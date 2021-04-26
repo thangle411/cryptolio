@@ -5,9 +5,9 @@ export const coins = [
         "coinAddress": "0x4a527d8fc13c5203ab24ba0944f4cb14658d1db6"
     },
     {   
-        "name": "DFT",
-        "pairAddress": "0xe2a1d215d03d7e9fa0ed66355c86678561e4940a",
-        "coinAddress": "0xb6ee603933e024d8d53dde3faa0bf98fe2a3d6f1"
+        "name": "CELL",
+        "pairAddress": "0x9c4cc862f51b1ba90485de3502aa058ca4331f32",
+        "coinAddress": "0x26c8afbbfe1ebaca03c2bb082e69d0476bffe099"
     },
     {
         "name":"GTH",
@@ -73,5 +73,10 @@ export const coins = [
         "name":"VSP",
         "pairAddress": "0x6d7b6dad6abed1dfa5eba37a6667ba9dcfd49077",
         "coinAddress": "0x1b40183efb4dd766f11bda7a7c3ad8982e998421"
+    },
+    {
+        "name":"SKL",
+        "pairAddress": "0xf232d640a5700724748464ba8bd8bed21db609a6",
+        "coinAddress": "0x00c83aecc790e8a4453e5dd3b0b4b3680501a7a7"
     },
 ]
