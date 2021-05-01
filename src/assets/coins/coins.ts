@@ -1,18 +1,8 @@
 export const coins = [
     {   
-        "name": "MITX",
-        "pairAddress": "0x51fe8e8fa3f9f10288fa8c2aff1400f887d21c42",
-        "coinAddress": "0x4a527d8fc13c5203ab24ba0944f4cb14658d1db6"
-    },
-    {   
         "name": "CELL",
         "pairAddress": "0x9c4cc862f51b1ba90485de3502aa058ca4331f32",
         "coinAddress": "0x26c8afbbfe1ebaca03c2bb082e69d0476bffe099"
-    },
-    {
-        "name":"GTH",
-        "pairAddress": "0xb38be7fd90669abcdfb314dbddf6143aa88d3110",
-        "coinAddress": "0xc3771d47e2ab5a519e2917e61e23078d0c05ed7f"
     },
     {
         "name":"CNTR",
@@ -78,5 +68,10 @@ export const coins = [
         "name":"SKL",
         "pairAddress": "0xf232d640a5700724748464ba8bd8bed21db609a6",
         "coinAddress": "0x00c83aecc790e8a4453e5dd3b0b4b3680501a7a7"
+    },
+        {
+        "name":"STAK",
+        "pairAddress": "0xeff2dbe03e67ee5e5a6b645cb61a1c0dcfd890d9",
+        "coinAddress": "0x1f8a626883d7724dbd59ef51cbd4bf1cf2016d13"
     },
 ]
