@@ -40,11 +40,6 @@ export const coins = [
         "coinAddress": "0x7f1f2d3dfa99678675ece1c243d3f7bc3746db5d"
     },
     {
-        "name":"OCTO",
-        "pairAddress": "0xd7cfbcadaaf6475321cfcf3884f15a93400be658",
-        "coinAddress": "0x7240ac91f01233baaf8b064248e80feaa5912ba3"
-    },
-    {
         "name":"RAZE",
         "pairAddress": "0x4fc47579ecf6aa76677ee142b6b75faf9eeafba8",
         "coinAddress": "0x5eaa69b29f99c84fe5de8200340b4e9b4ab38eac"
