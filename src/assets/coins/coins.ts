@@ -5,9 +5,9 @@ export const coins = [
         "coinAddress": "0x26c8afbbfe1ebaca03c2bb082e69d0476bffe099"
     },
     {
-        "name":"CNTR",
-        "pairAddress": "0xa12b7a78a31854d2e9ee8fbc92e262aaf4fcd4f1",
-        "coinAddress": "0x03042482d64577a7bdb282260e2ea4c8a89c064b"
+        "name":"MIST",
+        "pairAddress": "0x6b1C477B4c67958915b194Ae8b007Bf078dadb81",
+        "coinAddress": "0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab"
     },
     {
         "name":"VVT",
@@ -15,11 +15,6 @@ export const coins = [
         "coinAddress": "0x755be920943ea95e39ee2dc437b268917b580d6e"
     },
     {
-        "name":"UTU",
-        "pairAddress": "0x8d01c6e109c3db63f7aa43404157b274cf18ffd8",
-        "coinAddress": "0xa58a4f5c4bb043d2cc1e170613b74e767c94189b"
-    },
-      {
         "name":"METRIC",
         "pairAddress": "0xa7d707118c02dcd2bea94ff05664db51363c47bd",
         "coinAddress": "0xefc1c73a3d8728dc4cf2a18ac5705fe93e5914ac"
@@ -48,16 +43,6 @@ export const coins = [
         "name":"VISR",
         "pairAddress": "0x0c2445bec45c443c58f44f8e0a5796960e052d63",
         "coinAddress": "0xf938424f7210f31df2aee3011291b658f872e91e"
-    },
-    {
-        "name":"MTHD",
-        "pairAddress": "0x4a17b7230c4b9b47e6c7b023103d6a11bd498022",
-        "coinAddress": "0x84ba4aecfde39d69686a841bab434c32d179a169"
-    },
-    {
-        "name":"VSP",
-        "pairAddress": "0x6d7b6dad6abed1dfa5eba37a6667ba9dcfd49077",
-        "coinAddress": "0x1b40183efb4dd766f11bda7a7c3ad8982e998421"
     },
     {
         "name":"SKL",
